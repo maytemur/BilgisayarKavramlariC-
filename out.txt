@@ -1,0 +1,1 @@
+bilgisayar kavramları denemesi out file önceden oluşturuldu ancak devc++ hata vermesi gerektiği halde önceden oluşturmasanda hata vermiyor?
